@@ -1,0 +1,9 @@
+*~
+*.log
+*.aux
+*.dvi
+*.out
+.DS_Store
+whiteboard
+report
+misic
